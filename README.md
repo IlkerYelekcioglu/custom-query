@@ -1,4 +1,4 @@
-Mastering Custom Queries in Spring Boot ~ JPA | JPQL | Native Query![image](https://github.com/IlkerYelekcioglu/custom-query/assets/53173162/e5c92bd9-4ad6-40d0-922f-973cb52df23d)
+![image](https://github.com/IlkerYelekcioglu/custom-query/assets/53173162/e5c92bd9-4ad6-40d0-922f-973cb52df23d)
 
 
 Bu kodlar FolksDev kanalındaki custom-query videosundaki kodlardır.
