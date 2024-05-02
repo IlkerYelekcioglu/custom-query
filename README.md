@@ -1,3 +1,6 @@
+ Mastering Custom Queries in Spring Boot ~ JPA | JPQL | Native Query
+
+
 Bu kodlar FolksDev kanalındaki custom-query videosundaki kodlardır.
 
 JPA (Java Persistence API):
